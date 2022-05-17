@@ -1,0 +1,80 @@
+.menu{
+    width: 1365px;
+    display:inline-block;
+    text-align:center;
+}
+
+.InOu{
+    margin-right: 20px;  
+}
+
+.opciones{
+    margin:0;
+    padding:0;
+    margin-left: 20px;
+}
+
+.list{
+    display:block;
+    float:left;
+    padding:0 10px;
+    background-color: #222;
+    color: #fff;
+
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 181px;
+    height: 41px;
+}
+
+.list2{
+    display: block;
+    float: right;
+    padding: 0 10px;
+    
+    color: #222;
+    font-size: 20px;
+
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+
+    width: 181px;
+    height: 41px;
+}
+
+.list_bl{
+    display:block;
+    float:left;
+    padding:0 10px;
+    background-color: #fff;
+    color: #222;
+    border-color: #222;
+    border-style: solid;
+    
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 181px;
+    height: 41px;
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.linea{
+    font-size: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    width: 1315px;
+    color: #222;
+    background-color: #222;
+}
